@@ -1,1 +1,3 @@
 Programacion Orientada  a objetos
+
+Concepto No 2 La POO es un paradigma
