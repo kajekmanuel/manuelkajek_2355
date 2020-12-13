@@ -1,7 +1,4 @@
-Programacion Orientada  a objetos
-
-Concepto No 2 La POO es un paradigma
-
+ Programacion Orientada a Objetos
+Concepto No 1 La POO es un paradigma
 Concepto No 2 La POO es un metodo  donde reconoce objetos
-
 Concepto No 4 La POO resuelve el problema utilizando todos  los objetos que intervienen en un esenario
